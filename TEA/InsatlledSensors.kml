@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?><kml xmlns="http://earth.google.com/kml/2.2"
+><Document><Style id="style1">
+<IconStyle>
+<Icon>
+<href>http://icons.iconarchive.com/icons/pelfusion/long-shadowmedia/128/Microphone-icon.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>12380</name>
+<description>Larry</description>
+<styleUrl>#style1</styleUrl>
+<Point>
+<coordinates>-79.955264,40.441568,0.00000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>876021</name>
+<description>Larry</description>
+<styleUrl>#style1</styleUrl>
+<Point>
+<coordinates>-79.945389,40.4442160.00000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>12379</name>
+<description>Larry</description>
+<styleUrl>#style1</styleUrl>
+<Point>
+<coordinates>-79.952367,40.441187,0.00000</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>
